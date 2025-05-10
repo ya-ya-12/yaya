@@ -26,4 +26,3 @@ git status 狀態 untracked 未追蹤 tracked 已追蹤 staged 已暫存 committ
 更新遠端儲存庫 URL git remote set-url origin <新的遠端儲存庫網址>
 重新命名分支 git branch -M main
 推送到遠端儲存庫 git push -u origin main
-2
